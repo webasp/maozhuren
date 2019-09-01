@@ -60,11 +60,15 @@
 | 错误码 | 含义 |
 | --- | --- |
 | 3000 | 该期内容不存在 |
-
+首页
 ![](http://img.dengyun.me/1567305235961.jpg)
+商品分类页
 ![](http://img.dengyun.me/1567305278756.jpg)
+商品详情页
 ![](http://img.dengyun.me/1567305301340.jpg)
+购物车
 ![](http://img.dengyun.me/1567305287954.jpg)
+结算页
 ![](http://img.dengyun.me/1567305317281.jpg)
 
 
